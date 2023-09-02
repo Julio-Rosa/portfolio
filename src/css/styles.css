@@ -216,7 +216,7 @@ body {
 #hero .container .hello {
 
 
-    background: linear-gradient(82deg, rgba(92, 131, 116, 1) 54%, rgba(24, 61, 61, 0.863) 98%), url('/src/images/julio.png');
+    background: linear-gradient(82deg, rgba(92, 131, 116, 1) 54%, rgba(24, 61, 61, 0.863) 98%), url('src/images/julio.png');
     background-repeat: no-repeat, no-repeat;
     background-position: left, right;
     background-size: contain;
